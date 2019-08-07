@@ -52,3 +52,6 @@ _changeLanguage = (language) => {
      this.setState({ currentLanguage: language });
 };
 ```
+![Local English Screen](https://github.com/purvangvasani/react-native-localization/blob/master/screenshots/LocalEnglish.png?raw=true)
+
+![Local Hindi](https://github.com/purvangvasani/react-native-localization/blob/master/screenshots/LocalHindi.png?raw=true)
